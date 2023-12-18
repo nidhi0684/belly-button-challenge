@@ -26,7 +26,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 3. Update the chart whenever a new sample is selected.
 
 ## How to execute code?
-1. To launch dasboard, open index.html in a browser. This will select default Subject ID as 940 and the preview will look as below ![localImage](./Images/BellyButtonDashboard.png)
+1. To launch dasboard, open this [URL](https://nidhi0684.github.io/belly-button-challenge/) in a browser. This will select default Subject ID as 940 and the preview will look as below ![localImage](./Images/BellyButtonDashboard.png)
 2. Select the test subject ID number from the dropdown on the top left corner, shown as below  ![localImage](./Images/SubjectIDs_Dropdown.png)
 3. Based on the selected Test Subject Id, Demographic Info, Horizontal Bar chart, Bubble chart, and Guage chart would relfect values in respective visualizations.
 
